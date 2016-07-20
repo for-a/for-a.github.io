@@ -91,4 +91,14 @@
     display: none;
   }
 
+  .index .content {
+    position: relative;
+    left: 25%;
+  }
+
+  .index .sidebar1 {
+    position: relative;
+    left: -50%;
+  }
+
 }
